@@ -1,0 +1,42 @@
+[
+  {
+    "content": "Read existing codebase structure",
+    "status": "completed",
+    "activeForm": "Reading existing codebase structure"
+  },
+  {
+    "content": "Create design brief",
+    "status": "completed",
+    "activeForm": "Creating design brief"
+  },
+  {
+    "content": "Implement design system (index.css, tailwind config)",
+    "status": "completed",
+    "activeForm": "Implementing design system"
+  },
+  {
+    "content": "Build UI components with mock data",
+    "status": "completed",
+    "activeForm": "Building UI components"
+  },
+  {
+    "content": "Create LivingApps backend",
+    "status": "completed",
+    "activeForm": "Creating LivingApps backend"
+  },
+  {
+    "content": "Wire up API and replace mock data",
+    "status": "completed",
+    "activeForm": "Wiring up API"
+  },
+  {
+    "content": "Build and fix errors",
+    "status": "completed",
+    "activeForm": "Building and fixing errors"
+  },
+  {
+    "content": "Deploy to GitHub",
+    "status": "in_progress",
+    "activeForm": "Deploying to GitHub"
+  }
+]
